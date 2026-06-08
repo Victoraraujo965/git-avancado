@@ -1,4 +1,4 @@
-# 🔀 Git Avançado
+# Git Avançado
 
 > Estudo prático de Git avançado com branching, rebase e automação de qualidade de código via pre-commit hooks.
 
